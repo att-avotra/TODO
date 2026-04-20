@@ -3,7 +3,6 @@ import {
   LogOut,
   Paperclip,
   Plus,
-  Signpost,
   SofaIcon,
   TimerIcon,
 } from "lucide-react";
