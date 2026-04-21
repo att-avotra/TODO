@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Upcomming() {
+export default function Upcoming() {
   return (
     <div>
       
