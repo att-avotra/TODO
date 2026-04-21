@@ -12,7 +12,7 @@ const Navbar = () => {
   const classNav = "b-8 px-2 py-3 flex items-center gap-2";
   return (
     <>
-      <aside className="bg-[#EEF0FF] flex flex-col p-4 w-64 h-full fixed top-0 left-0">
+      <aside className="bg-[#EEF0FF] flex flex-col p-4 w-64 h-full">
         <header className="">
           <h1 className="text-primary font-semibold text-xl mb-1">Pro Todo</h1>
           <p className="text-gray-500 uppercase text-sm font-semibold mb-8">
@@ -50,7 +50,7 @@ const Navbar = () => {
           </NavLink>
           <NavLink to={"/create"} className={"btn-primary my-8"}>
             <Plus className="h-4" />
-            <p>Create</p>
+            <p>Create Task</p>
           </NavLink>
         </nav>
         <footer className="flex flex-col gap-2">
