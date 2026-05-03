@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "this project is about todo",
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "license": "ISC",
+  "author": "Avotra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
